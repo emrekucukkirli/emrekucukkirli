@@ -1,6 +1,4 @@
 ### Hi there 👋
-<!-- <img width="100%" height = "250px" src="https://cdn.pixabay.com/photo/2018/01/14/23/12/nature-3082832_1280.jpg" alt="cover" /> -->
-</div>
 
 <p align='center'>
 I am Emre. I have been developing websites and WordPress themes. I enjoy working on the front-end. I
@@ -11,20 +9,5 @@ with focus and passionately. I try to discover areas that I can offer better whi
 </p>
 
 <h2> Connect with me  🤝 </h2>
-<a href = 'https://www.linkedin.com/in/kodemre' target="blank"> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
-<a href = 'https://kodemre.com' target="blank"> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
-
-<!--
-**kodemre/kodemre** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = 'https://www.linkedin.com/in/emrekucukkirli' target="blank"> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
+<a href = 'https://emrekucukkirli.dev' target="blank"> <img width = '24px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/portfolio.png"/></a> 
